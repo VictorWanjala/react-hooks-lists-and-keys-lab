@@ -1,0 +1,16 @@
+.navlist{
+    background-color: aqua;
+    display:flex;
+    direction: row;
+    justify-content: space-around;
+    height: 10vh;
+    align-items: center;
+}
+
+.navlist li{
+    text-decoration: none;
+}
+.navlist li a{
+    text-decoration: none;
+    color: black;
+}
